@@ -1,3 +1,5 @@
 tetowe readme
 
-CiÄ…g dalszy zmiany
+czeœæ to jest zmiana, CiÄ…g dalszy zmiany
+
+
